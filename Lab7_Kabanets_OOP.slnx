@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab7_Kabanets_OOP/Lab7_Kabanets_OOP.vcxproj" Id="ba875a92-63bb-4ea1-a418-5d52942a61a4" />
+</Solution>
